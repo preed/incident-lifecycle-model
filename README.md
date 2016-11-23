@@ -14,9 +14,9 @@ Pull requests to correct errors or update language and/or behavioral patterns ar
 Licensed under a Creative Commons [version 4.0 BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/4.0/):
 
 * Attribution - Please attribute the original authors:
-  - J. Paul Reed, [@preed](https://twitter.com/jpaulreed)
+  - J. Paul Reed, [@jpaulreed](https://twitter.com/jpaulreed)
   - Kevina Finn-Braun, [@kfinnbraun](https://twitter.com/kfinnbraun)
-* Noncommercial - Contact @preed to discuss commercial usage.
+* Noncommercial - Contact @jpaulreed to discuss commercial usage.
 * NoDerivatives - _But_ we accept Pull Requests! (And will add you to the authors list!)
 
 
