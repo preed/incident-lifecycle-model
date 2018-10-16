@@ -1,4 +1,4 @@
-# Incident Response
+# Incident Prevention
 
 |        | Language Used        | Behavior Displayed |
 | ------ | -------------------- | ------------------ |
